@@ -1,0 +1,4 @@
+route,performance_index,energy_MJ_per_kg,CO2_kg_per_kg,water_L_per_kg,cost_index,sustainability_score
+Mechanical recycling (standard),0.75,5.0,0.45,2.0,0.6,-0.665
+Mechanical recycling + compatibilizer,0.9,6.0,0.55,2.5,0.7,-0.8049999999999997
+Chemical recycling,0.95,12.0,1.2,6.0,1.0,-3.3
